@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Kola-s-website/static/css/main.d508c848.chunk.css",
+    "main.js": "/Kola-s-website/static/js/main.d152b2f8.chunk.js",
+    "main.js.map": "/Kola-s-website/static/js/main.d152b2f8.chunk.js.map",
+    "runtime-main.js": "/Kola-s-website/static/js/runtime-main.81dc82a5.js",
+    "runtime-main.js.map": "/Kola-s-website/static/js/runtime-main.81dc82a5.js.map",
+    "static/js/2.9a7b163a.chunk.js": "/Kola-s-website/static/js/2.9a7b163a.chunk.js",
+    "static/js/2.9a7b163a.chunk.js.map": "/Kola-s-website/static/js/2.9a7b163a.chunk.js.map",
+    "index.html": "/Kola-s-website/index.html",
+    "static/css/main.d508c848.chunk.css.map": "/Kola-s-website/static/css/main.d508c848.chunk.css.map",
+    "static/js/2.9a7b163a.chunk.js.LICENSE.txt": "/Kola-s-website/static/js/2.9a7b163a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Kola-s-website/static/media/bg-masthead.f16c2ada.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81dc82a5.js",
+    "static/js/2.9a7b163a.chunk.js",
+    "static/css/main.d508c848.chunk.css",
+    "static/js/main.d152b2f8.chunk.js"
+  ]
+}
